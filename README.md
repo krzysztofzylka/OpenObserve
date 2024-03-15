@@ -28,6 +28,5 @@ Example
 ```
 Log:
 ```json
-	
 {"_timestamp":1710530478602382,"additional":"data","level":"INFO","message":"message"}
 ```
